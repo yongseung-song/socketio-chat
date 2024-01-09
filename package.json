@@ -1,0 +1,13 @@
+{
+  "name": "socketio",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "type": "module",
+  "dependencies": {
+    "@socket.io/cluster-adapter": "^0.2.2",
+    "express": "4",
+    "socket.io": "^4.7.3",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
